@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jesse-Kaikkonen
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning and growing my knowldege of professional programming
 - 🌱 I’m currently learning at Seattle Pacfic University
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (425) 305-0606 or jesse.kaikkonen@gmail.com
 
 <!---
